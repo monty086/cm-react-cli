@@ -1,0 +1,19 @@
+{
+  "name": "cm-react-cli",
+  "version": "1.0.0",
+  "description": "cm-react-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monty086/cm-react-cli.git"
+  },
+  "author": "monty yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monty086/cm-react-cli/issues"
+  },
+  "homepage": "https://github.com/monty086/cm-react-cli#readme"
+}
